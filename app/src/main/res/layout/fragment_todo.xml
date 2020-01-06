@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.todo.TodoFragment">
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_marginTop="60dp"
+        android:background="@color/colorEnd"
+        android:text="Today"
+        android:textColor="#FFFFFF" />
+
+    <RadioButton
+        android:id="@+id/radioButton"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/colol_view"
+        android:drawableRight="@drawable/ic_error_black_24dp"
+        android:text="Hom nay toi phai lam cai gi to tat"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#FFFFFF"
+        android:textColorLink="#FFFFFF"
+        android:textCursorDrawable="@android:color/background_light" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="@color/colorEnd"
+        android:text="Today"
+        android:textColor="#FFFFFF" />
+
+    <RadioButton
+        android:id="@+id/radioButton2"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/colol_view"
+        android:drawableRight="@drawable/ic_error_black_24dp"
+        android:text="Hom nay toi phai lam cai gi to tat"
+        android:textColor="#FFFFFF"
+        android:textCursorDrawable="@color/colol_view_fff" />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="@color/colorEnd"
+        android:text="Today"
+        android:textColor="#FFFFFF" />
+
+    <RadioButton
+        android:id="@+id/radioButton3"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/colol_view"
+        android:drawableRight="@drawable/ic_error_black_24dp"
+        android:text="Hom nay toi phai lam cai gi to tat"
+        android:textColor="#FFFFFF"
+        android:textCursorDrawable="@color/colol_view_fff" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="@color/colorEnd"
+        android:text="Today"
+        android:textColor="#FFFFFF" />
+
+    <RadioButton
+        android:id="@+id/radioButton4"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/colol_view"
+        android:drawableRight="@drawable/ic_error_black_24dp"
+        android:text="Hom nay toi phai lam cai gi to tat"
+        android:textColor="#FFFFFF"
+        android:textCursorDrawable="@color/colol_view_fff" />
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="@color/colorEnd"
+        android:text="Today"
+        android:textColor="#FFFFFF" />
+
+    <RadioButton
+        android:id="@+id/radioButton5"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/colol_view"
+        android:drawableRight="@drawable/ic_error_black_24dp"
+        android:text="Hom nay toi phai lam cai gi to tat"
+        android:textColor="#FFFFFF"
+        android:textCursorDrawable="@color/colol_view_fff" />
+
+    <Button
+        android:id="@+id/button_items_hide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:background="@color/colorStudy"
+        android:text="Items hide" />
+
+</LinearLayout>

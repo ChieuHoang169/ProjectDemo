@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_text.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable\\round_text.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_2.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\layout\\fragment_2.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search_black_24dp.xml.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tichv.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable\\tichv.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_colortextview.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable\\colortextview.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_colortabitem.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable\\colortabitem.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notes.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\layout\\fragment_notes.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_anh.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable-v24\\anh.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tag.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable\\tag.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_view.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable\\round_view.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_danhsach.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable-v24\\danhsach.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tagstudy.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable-v24\\tagstudy.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tagtodolist.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable-v24\\tagtodolist.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_1.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\layout\\fragment_1.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phim.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable\\phim.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_union_1.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable\\union_1.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_error_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_error_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_group288.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable-v24\\group288.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_folder_icon.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable\\folder_icon.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_error_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_error_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_error_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_error_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tim.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable\\tim.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tagthoughts.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable-v24\\tagthoughts.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mic.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable-v24\\mic.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_todo.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\layout\\fragment_todo.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_thoughts.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\layout\\fragment_thoughts.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_error_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_error_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_calendar.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_note_add.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable-v24\\note_add.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_theme.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable-v24\\theme.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_scrap.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\layout\\fragment_scrap.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_error_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_error_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_to_dilist.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\layout\\fragment_to_dilist.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_viewffff.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable\\round_viewffff.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\menu_search.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_folder.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\layout\\fragment_folder.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tagscrap.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable-v24\\tagscrap.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_colorsbackgrout.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable\\colorsbackgrout.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tagdailylife.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable-v24\\tagdailylife.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_arrow.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable-v24\\arrow.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notes_icon.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable\\notes_icon.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_group_287.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable\\group_287.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_error_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_error_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_photo.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable-v24\\photo.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_error_black_24dp.xml.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_error_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_path_85.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable\\path_85.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_page_tile.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\layout\\fragment_page_tile.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tagidea.png.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\drawable-v24\\tagidea.png"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\layout\\fragment_add.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_idea.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\layout\\fragment_idea.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_study.xml.flat",
+        "source": "D:\\XDAPP\\app\\src\\main\\res\\layout\\fragment_study.xml"
+    },
+    {
+        "merged": "D:\\XDAPP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search_black_24dp.png.flat",
+        "source": "D:\\XDAPP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search_black_24dp.png"
+    }
+]

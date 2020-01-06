@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_folder">
+
+    <fragment
+        android:id="@+id/navigation_folder"
+        android:name="com.example.xdapp.ui.folder.FolderFragment"
+        tools:layout="@layout/fragment_folder" />
+
+    <fragment
+        android:id="@+id/navigation_notes"
+        android:name="com.example.xdapp.ui.notes.NotesFragment"
+        tools:layout="@layout/fragment_add" />
+    <fragment
+        android:id="@+id/navigation_add"
+        android:name="com.example.xdapp.ui.add.AddFragment"
+        android:label=""
+        tools:layout="@layout/fragment_notes" />
+
+    <fragment
+        android:id="@+id/navigation_todo"
+        android:name="com.example.xdapp.ui.todo.TodoFragment"
+        tools:layout="@layout/fragment_todo" >
+        <action
+            android:id="@+id/action_navigation_todo_to_fragment1"
+            app:destination="@id/fragment1" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_calendar"
+        android:name="com.example.xdapp.ui.calendar.CalendarFragment"
+        tools:layout="@layout/fragment_calendar" >
+        <action
+            android:id="@+id/action_navigation_calendar_to_pageTileFragment"
+            app:destination="@id/pageTileFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragment1"
+        android:name="com.example.xdapp.ui.todo.Fragment1"
+        android:label="DETAILS"
+        tools:layout="@layout/fragment_1" >
+        <action
+            android:id="@+id/action_fragment1_to_fragment2"
+            app:destination="@id/fragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragment2"
+        android:name="com.example.xdapp.ui.todo.Fragment2"
+        android:label="Date and Time"
+        tools:layout="@layout/fragment_2" >
+        <action
+            android:id="@+id/action_fragment2_to_fragment12"
+            app:destination="@id/fragment1"
+            app:popUpTo="@id/fragment1"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:launchSingleTop="true" />
+        <action
+            android:id="@+id/action_fragment2_to_fragment13"
+            app:destination="@id/fragment1"
+            app:popUpTo="@id/fragment2"
+            app:launchSingleTop="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/pageTileFragment"
+        android:name="com.example.xdapp.ui.calendar.PageTileFragment"
+        android:label="Page Tile"
+        tools:layout="@layout/fragment_page_tile" />
+</navigation>

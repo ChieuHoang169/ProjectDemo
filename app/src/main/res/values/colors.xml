@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E8E5DF</color>
+    <color name="colorPrimaryDark">#B6A38F</color>
+    <color name="colorAccent">#645B52</color>
+    <color name="colorIcon">#DBE6E5</color>
+    <color name="colorText">#DBE8E7</color>
+    <color name="colorStrat">#E8E5DF</color>
+    <color name="colorEnd">#645B52</color>
+    <color name="colol_view">#D5C6B7</color>
+    <color name="colol_view_fff">#ffff</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorIdea">#DD1414</color>
+    <color name="colorThoughts">#FFC107</color>
+    <color name="colorStudy">#755525</color>
+    <color name="colorScrap">#85CF88</color>
+    <color name="colorTodolist">#0AD4ED</color>
+    <color name="colorXam">#828585</color>
+    <color name="colorTextView">#888888</color>
+    <color name="colorTitle">#F1EECE</color>
+</resources>

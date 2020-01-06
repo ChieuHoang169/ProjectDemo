@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_home_second"></string>
+    <string name="hello_dashboard_second"></string>
+    <string name="hello_notifications_second"></string>
+    <string name="title_folder">FOLDER</string>
+    <string name="title_notes">NOTES</string>
+    <string name="title_todo">To_Do</string>
+    <string name="title_calendar">CALENDAR</string>
+    <string name="title_ideal">Ideal</string>
+    <string name="title_scrap">Scrap</string>
+    <string name="title_thoughts">Thoughts</string>
+    <string name="title_study">Study</string>
+    <string name="title_todolist">To_do list</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

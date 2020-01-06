@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/colorsbackgrout"
+    android:orientation="vertical"
+    tools:context=".ui.todo.Fragment1">
+
+    <LinearLayout
+        android:id="@+id/view23"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/round_view"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="Hôm nay mình phai làm cái gì đó to tát ..."
+            android:textColor="#FFFFFF" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/view24"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="40dp"
+        android:background="@color/colol_view"
+        android:orientation="vertical">
+
+        <Switch
+            android:id="@+id/switch1"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:text="Turn On"
+            android:textColor="#FFFFFF" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/view25"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" >
+
+        <TextView
+            android:id="@+id/textView29"
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="Remember to me"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/textView30"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center|center_vertical"
+            android:text="8:00 , Th7, 21/12/19"
+            android:textColor="#FFFFFF" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/view26"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colol_view" >
+
+        <TextView
+            android:id="@+id/textView27"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="Priority"
+            android:textColor="#FFFFFF" />
+
+        <ImageButton
+            android:id="@+id/imageButton"
+            android:layout_width="10dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="150dp"
+            android:layout_weight="1"
+            android:background="@color/colol_view"
+            android:src="@drawable/arrow" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/view27"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="150dp"
+        android:background="@color/colol_view">
+
+        <TextView
+            android:id="@+id/textView31"
+            android:layout_width="220dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:gravity="center_vertical"
+            android:text="Remember to me"
+            android:textColor="#FFFFFF" />
+
+        <LinearLayout
+            android:id="@+id/view29"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/textView32"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="30dp"
+                android:layout_weight="1"
+                android:background="@drawable/colortextview"
+                android:gravity="center"
+                android:text="None"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/textView33"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:background="@drawable/colortextview"
+                android:gravity="center"
+                android:text="!"
+                android:textColor="#FFFFFF" />
+
+            <TextView
+                android:id="@+id/textView34"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:background="@drawable/colortextview"
+                android:gravity="center"
+                android:text="!!"
+                android:textColor="#FFFFFF" />
+
+            <TextView
+                android:id="@+id/textView35"
+                android:layout_width="2dp"
+                android:layout_height="20dp"
+                android:layout_gravity="center|center_vertical"
+                android:layout_marginRight="60dp"
+                android:layout_weight="1"
+                android:background="@drawable/colortextview"
+                android:gravity="center"
+                android:text="!!!"
+                android:textColor="#FFFFFF" />
+        </LinearLayout>
+
+    </LinearLayout>
+    <View
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray" />
+    <LinearLayout
+        android:id="@+id/view28"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/colol_view"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView36"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginLeft="10dp"
+            android:text="Note something"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/textView37"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:gravity="center_vertical"
+            android:text="Bước qua đèo ngang bóng xế tà"
+            android:textColor="#FFFFFF" />
+    </LinearLayout>
+
+</LinearLayout>
